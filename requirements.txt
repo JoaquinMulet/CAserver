@@ -1,0 +1,11 @@
+flask
+numpy
+pandas
+openai
+faiss-cpu
+Flask-Cors
+matplotlib
+plotly
+scipy
+scikit-learn
+gunicorn
